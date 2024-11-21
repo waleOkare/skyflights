@@ -1,0 +1,11 @@
+Booking_ID,Passenger_ID,Flight_ID,Booking_Date,Booking_Status,Seat_Number
+1,1,1,2024-10-01,Confirmed,12A
+2,2,2,2024-10-02,Confirmed,14B
+3,3,3,2024-10-03,Cancelled,NULL
+4,4,4,2024-10-04,Confirmed,18C
+5,5,5,2024-10-05,Confirmed,10D
+6,6,6,2024-10-06,Cancelled,NULL
+7,7,7,2024-10-07,Confirmed,6E
+8,8,8,2024-10-08,Confirmed,3F
+9,9,9,2024-10-09,Confirmed,1A
+10,10,10,2024-10-10,Confirmed,2B

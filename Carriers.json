@@ -1,0 +1,12 @@
+[
+    {"Carrier_ID": 1, "Airline_ID": 1, "Carrier_Name": "Delta Connection", "Base_Airport_ID": 1},
+    {"Carrier_ID": 2, "Airline_ID": 2, "Carrier_Name": "Lufthansa Regional", "Base_Airport_ID": 2},
+    {"Carrier_ID": 3, "Airline_ID": 3, "Carrier_Name": "QantasLink", "Base_Airport_ID": 3},
+    {"Carrier_ID": 4, "Airline_ID": 4, "Carrier_Name": "Air India Express", "Base_Airport_ID": 4},
+    {"Carrier_ID": 5, "Airline_ID": 5, "Carrier_Name": "Fly Emirates", "Base_Airport_ID": 5},
+    {"Carrier_ID": 6, "Airline_ID": 6, "Carrier_Name": "British Airways Express", "Base_Airport_ID": 6},
+    {"Carrier_ID": 7, "Airline_ID": 7, "Carrier_Name": "AA Eagle", "Base_Airport_ID": 7},
+    {"Carrier_ID": 8, "Airline_ID": 8, "Carrier_Name": "Ethiopian Wings", "Base_Airport_ID": 8},
+    {"Carrier_ID": 9, "Airline_ID": 9, "Carrier_Name": "Singapore Connect", "Base_Airport_ID": 9},
+    {"Carrier_ID": 10, "Airline_ID": 10, "Carrier_Name": "Turkish Express", "Base_Airport_ID": 10}
+]

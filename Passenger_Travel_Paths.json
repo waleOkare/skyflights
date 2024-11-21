@@ -1,0 +1,12 @@
+[
+    {"Travel_Path_ID": 1, "Passenger_ID": 1, "Departure_Airport_ID": 1, "Arrival_Airport_ID": 2, "Departure_Date": "2024-11-01", "Arrival_Date": "2024-11-01"},
+    {"Travel_Path_ID": 2, "Passenger_ID": 2, "Departure_Airport_ID": 2, "Arrival_Airport_ID": 3, "Departure_Date": "2024-11-02", "Arrival_Date": "2024-11-02"},
+    {"Travel_Path_ID": 3, "Passenger_ID": 3, "Departure_Airport_ID": 3, "Arrival_Airport_ID": 4, "Departure_Date": "2024-11-03", "Arrival_Date": "2024-11-03"},
+    {"Travel_Path_ID": 4, "Passenger_ID": 4, "Departure_Airport_ID": 4, "Arrival_Airport_ID": 5, "Departure_Date": "2024-11-04", "Arrival_Date": "2024-11-04"},
+    {"Travel_Path_ID": 5, "Passenger_ID": 5, "Departure_Airport_ID": 5, "Arrival_Airport_ID": 6, "Departure_Date": "2024-11-05", "Arrival_Date": "2024-11-05"},
+    {"Travel_Path_ID": 6, "Passenger_ID": 6, "Departure_Airport_ID": 6, "Arrival_Airport_ID": 7, "Departure_Date": "2024-11-06", "Arrival_Date": "2024-11-06"},
+    {"Travel_Path_ID": 7, "Passenger_ID": 7, "Departure_Airport_ID": 7, "Arrival_Airport_ID": 8, "Departure_Date": "2024-11-07", "Arrival_Date": "2024-11-07"},
+    {"Travel_Path_ID": 8, "Passenger_ID": 8, "Departure_Airport_ID": 8, "Arrival_Airport_ID": 9, "Departure_Date": "2024-11-08", "Arrival_Date": "2024-11-08"},
+    {"Travel_Path_ID": 9, "Passenger_ID": 9, "Departure_Airport_ID": 9, "Arrival_Airport_ID": 10, "Departure_Date": "2024-11-09", "Arrival_Date": "2024-11-09"},
+    {"Travel_Path_ID": 10, "Passenger_ID": 10, "Departure_Airport_ID": 10, "Arrival_Airport_ID": 1, "Departure_Date": "2024-11-10", "Arrival_Date": "2024-11-10"}
+]

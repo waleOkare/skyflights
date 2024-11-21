@@ -1,0 +1,12 @@
+[
+    {"Airport_ID": 1, "Airport_Code": "ATL", "Airport_Name": "Hartsfield-Jackson Atlanta", "City": "Atlanta", "Country": "USA", "Timezone": "EST"},
+    {"Airport_ID": 2, "Airport_Code": "FRA", "Airport_Name": "Frankfurt", "City": "Frankfurt", "Country": "Germany", "Timezone": "CET"},
+    {"Airport_ID": 3, "Airport_Code": "SYD", "Airport_Name": "Sydney", "City": "Sydney", "Country": "Australia", "Timezone": "AEST"},
+    {"Airport_ID": 4, "Airport_Code": "DEL", "Airport_Name": "Indira Gandhi International", "City": "Delhi", "Country": "India", "Timezone": "IST"},
+    {"Airport_ID": 5, "Airport_Code": "DXB", "Airport_Name": "Dubai International", "City": "Dubai", "Country": "UAE", "Timezone": "GST"},
+    {"Airport_ID": 6, "Airport_Code": "LHR", "Airport_Name": "Heathrow", "City": "London", "Country": "UK", "Timezone": "GMT"},
+    {"Airport_ID": 7, "Airport_Code": "DFW", "Airport_Name": "Dallas/Fort Worth", "City": "Dallas", "Country": "USA", "Timezone": "CST"},
+    {"Airport_ID": 8, "Airport_Code": "ADD", "Airport_Name": "Addis Ababa Bole", "City": "Addis Ababa", "Country": "Ethiopia", "Timezone": "EAT"},
+    {"Airport_ID": 9, "Airport_Code": "SIN", "Airport_Name": "Changi", "City": "Singapore", "Country": "Singapore", "Timezone": "SGT"},
+    {"Airport_ID": 10, "Airport_Code": "IST", "Airport_Name": "Istanbul", "City": "Istanbul", "Country": "Turkey", "Timezone": "TRT"}
+]
